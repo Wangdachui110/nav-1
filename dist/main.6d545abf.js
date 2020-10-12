@@ -179,4 +179,4 @@ $(document).on('keypress', function (e) {
   }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://wangdachui110.github.io/nav-1/dist/main.6d545abf.js.map
+//# sourceMappingURL=https://github.com/Wangdachui110/nav-1/blob/main/dist/main.6d545abf.js.map
